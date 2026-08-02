@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0877-stone-game](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -67,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AniketKumar5155/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
